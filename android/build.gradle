@@ -20,7 +20,7 @@ android {
 }
 
 dependencies {
-    compile 'com.facebook.react:react-native:0.20.+'
-    compile 'com.jcraft:jsch:0.1.54'
+    implementation 'com.facebook.react:react-native:0.20.+'
+    implementation 'com.jcraft:jsch:0.1.54'
 }
   
